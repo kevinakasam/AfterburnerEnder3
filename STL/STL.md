@@ -5,4 +5,4 @@ I'm using Gregs Modulaar Fan Duct and 5015 Mod (https://github.com/Greg191134/Vo
 
 1: Add support to the upper chain mount        |  2: break the small bridge (red surface)
 :-------------------------:|:-------------------------:
-![](Images/support.JPG)  |  ![](Images/break.JPG)
+![](https://github.com/kevinakasam/Afterburner_Ender3/blob/main/Images/support.JPG)  |  ![](https://github.com/kevinakasam/Afterburner_Ender3/blob/main/Images/break.JPG)
