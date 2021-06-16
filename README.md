@@ -47,5 +47,6 @@ I'm using Gregs Modulaar Fan Duct and 5015 Mod (https://github.com/Greg191134/Vo
   * 1x M3x30mm (to mount the housing)
 * #### Afterburner
   * Please use Voron sourcung guide: https://vorondesign.com/sourcing_guide (Click on the Afterburner sheet at the bottom)
+  * **I'm using a 23mm nema. If you want to use a 20mm one you have to modify the parts!**
 * #### Afterburner 5015 Mod
   * Please check Gregs page: https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation
