@@ -4,7 +4,7 @@
 <img src="Images/1.jpg" width="400"/> <img src="Images/2.jpg" width="400"/>
 
 ## Still in Progess
-This page is currently only used to provide the files and basic instructions. More info and parts for the electronics, Raspi, BL-Touch etc will be added later.
+This page is currently only used to provide the files and basic instructions. More info and parts for the electronics, Raspi, BL-Touch etc will be added later. Design with the Einsy is tested. untested with Raspberry Pi and Stock/Skr Mini board! Feedback is appreciated. 
 
 ### Why?
 As you can probably guess, I love the Voron design. It makes me so much fun to work with the ideas and great designs that the team around Voron has created. And since the Afterburner not only looks nice but is also quite cheap and reliable, I decided to mount it on the Ender 3. This conversion fits all Ender3 and similar machines like CR10 etc. Since the extruder had to come very far forward to be able to install the cable chain, I had a lot of space in the afterburner carriage. Therefore, I decided to integrate the limit switch into the carriage.
