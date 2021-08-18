@@ -25,6 +25,9 @@ I'm using Gregs Modulaar Fan Duct and 5015 Mod (https://github.com/Greg191134/Vo
 :-------------------------:|:-------------------------:
 ![](Images/support.JPG)  |  ![](Images/break.JPG)
 
+Added untest X-Limit-Switch for the BL-Touch Version (not online yet) or nearly stock position.
+<img src="Images/untested.JPG" width="400"/>
+
 ### BOM
 * #### Rail
   * 1x MGN 12H
