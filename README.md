@@ -17,30 +17,30 @@ If you are from Germany or the EU, please send me a message via Discord and I ca
 Do not use the original cables in the cable chain! Do not use PVC cables, these will break after some time! I replaced all my cables with silicone cables, so they do not break. You can also use PTFE cables or HELUKABEL, but this is much more expensive. If you are from Germany you can find cheap silicone cables in the online store from Conrad Electronik.
 
 ### How to print?
-All parts can be printed without support (except x_motor_housing.stl; see below) and are already in the optimal orientation for printing. All Afterburner parts should be printed out of Abs(+). I'm using Esun ABS(+), this is very easy tp print. But remember that the fumes are toxic, so use an enclosure and an air filter (spoiler: I'm going to release a very powerful fan soon). I added a small support structure to the afterburner_carraige.stl. just break it after printing (see red surface below).
+All parts can be printed without support (except x_motor_housing.stl; see STL Folder) and are already in the optimal orientation for printing. All Afterburner parts should be printed out of Abs. I'm using Esun ABS+, this is very easy tp print. But remember that the fumes are toxic, so use an enclosure and an air filter ([BFACH](https://github.com/kevinakasam/BFACH "BFACH")).
 
-I'm using Gregs Modulaar Fan Duct and 5015 Mod (https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation). I had a small gap between the extruder and tool part, so I moved the mounting holes 1mm up (see afterburner_carriage_5015mod.stl). Since I never tested the stock Afterburner, I don't know if this "error" also occurs with the normal Afterburner or only with Greg's mod. Feel free to give me feedback.
-
-1: Add support to the upper chain mount        |  2: break the small bridge (red surface)
-:-------------------------:|:-------------------------:
-![](Images/support.JPG)  |  ![](Images/break.JPG)
-
-Added untest X-Limit-Switch for the BL-Touch Version (not online yet) or nearly stock position.
-<img src="Images/untested.JPG" width="400"/>
 
 ### BOM
 * #### Rail
-  * 1x MGN 12H
+  * 1x MGN 12H 300mm
   * 12x M3x8mm (to mount the rail)
   * 12x M3 t-nut (to mount the rail)
   * 1x M5x8mm (to mount the limit block)
   * 1x M5 t-nut (to mount the limit block)
-* #### Afterburner Carriage
+* #### Afterburner Carriage normal
   * 3x M3x20mm
   * 1x M3x5mm
+* #### Afterburner Carriage BL-Touch
+  * 3x M3x20mm
+  * 1x M3x5mm
+  * 5x M3 brass heat insert
+  * 5x M3x35mm
 * #### PINDA Mout
   * 1x M3 brass heat insert
   * 1x M3x8mm
+* #### BL-Touch Mount
+  * 2x M3 brass heat insert
+  * 2x M3x8mm
 * #### Cable Chain
   * 1 Meter 10x11 cable chain (open and closed ine works. I used the open one for better access)
   * 3x M3 brass heat insert (for mounting to the chain anchor)
