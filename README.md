@@ -1,13 +1,19 @@
-# Afterburner Ender3 + Cable Chain + PINDA Probe
+## Afterburner Ender3 + Cable Chain + BL-Touch or PINDA + Raspberry Pi TFT
 
-<img src="Images/CAD1.jpeg" width="400"/> <img src="Images/CAD2.jpeg" width="400"/>
-<img src="Images/1.jpg" width="400"/> <img src="Images/2.jpg" width="400"/>
+<img src="Images/CAD1.jpeg" width="350"/> <img src="Images/CAD2.jpeg" width="350"/>
+<img src="Images/1.jpg" width="350"/> <img src="Images/2.jpg" width="350"/>
 
 ## Still in Progess
-This page is currently only used to provide the files and basic instructions. More info and parts for the electronics, Raspi, BL-Touch etc will be added later. Design with the Einsy is tested. untested with Raspberry Pi and Stock/Skr Mini board! Feedback is appreciated. 
+This page is currently only used to provide the files and basic instructions. More info and parts for the electronics, Raspi, BL-Touch etc will be added later.  
+
+### Versions
+1: PINDA or BL-Touch        |  2: Fan or Raspberry Pi TFT
+:-------------------------:|:-------------------------:
+<img src="Images/versions.png" width="400"/>  |  <img src="Images/front_lid.png" width="400"/>
+<img src="Images/versions2.png" width="400"/>  |  <img src="Images/front_lid_raspberry_pi.png" width="400"/>
 
 ### Why?
-As you can probably guess, I love the Voron design. It makes me so much fun to work with the ideas and great designs that the team around Voron has created. And since the Afterburner not only looks nice but is also quite cheap and reliable, I decided to mount it on the Ender 3. This conversion fits all Ender3 and similar machines like CR10 etc. Since the extruder had to come very far forward to be able to install the cable chain, I had a lot of space in the afterburner carriage. Therefore, I decided to integrate the limit switch into the carriage.
+As you can probably guess, I love the Voron design. It makes me so much fun to work with the ideas and great designs that the team around Voron has created. And since the Afterburner not only looks nice but is also quite cheap and reliable, I decided to mount it on the Ender 3. This mod fits all Ender3 and similar machines like CR10 etc. Since the extruder had to come very far forward to be able to install the cable chain, I had a lot of space in the afterburner carriage. Therefore, I decided to integrate the limit switch into the carriage.
 
 ### A good Idea?
 Definitely yes, if you can print with ABS(+). I first printed the parts out of PETG and I had a lot of problems. Besides that, the extruder is very strong like the normal BMG extruder and just works perfectly. I have been using the extruder continuously for weeks now and I am very happy with it.
