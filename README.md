@@ -3,6 +3,13 @@
 <img src="Images/CAD1.jpeg" width="350"/> <img src="Images/CAD2.jpeg" width="350"/>
 <img src="Images/1.jpg" width="350"/> <img src="Images/2.jpg" width="350"/>
 
+If you have any questions feel free to join the [Discord-Server](https://discord.gg/xqpKrxt9FC) 
+ 
+<a href="https://discord.gg/xqpKrxt9FC">
+         <img alt="Join" src="https://github.com/kevinakasam/BeltDrivenEnder3/blob/main/Pictures/Discord-Logo%2BWordmark-Color.png"
+         width=250" >
+      </a>
+
 ## Still in Progess
 This page is currently only used to provide the files and basic instructions. More info and parts for the electronics, Raspi, BL-Touch etc will be added later.  
 
