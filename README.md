@@ -40,7 +40,8 @@ All parts can be printed without support (except x_motor_housing.stl; see STL Fo
   * 12x M3 t-nut (to mount the rail)
   * 1x M5x8mm (to mount the limit block)
   * 1x M5 t-nut (to mount the limit block)
-* #### Afterburner Carriage normal
+  * 2 Meter GT2 Belt (Glas Fiber reinforced)
+* #### Afterburner Carriage Pinda
   * 3x M3x20mm
   * 1x M3x5mm
 * #### Afterburner Carriage BL-Touch
